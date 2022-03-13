@@ -50,3 +50,9 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+*.user
+src/.idea/
+src/VideoStore.Test/bin/
+src/VideoStore.Test/obj/
+src/VideoStore/obj/
+src/VideoStore/bin/
